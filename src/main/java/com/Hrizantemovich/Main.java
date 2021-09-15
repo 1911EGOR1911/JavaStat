@@ -8,6 +8,7 @@ public class Main {
         Kettle kettle1 = new Kettle("siemens",3, false, true);
 
 
+
     }
     }
 

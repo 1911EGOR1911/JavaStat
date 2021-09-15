@@ -13,10 +13,11 @@ public class Kettle {
         this.NotElectric = notElectric;
 
 
+
         if (electric) {
             System.out.println("zarya");
         }
-        else (notElectric) {
+        else {
                 System.out.println("Siemens");
 
     }
