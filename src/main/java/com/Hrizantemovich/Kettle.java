@@ -21,6 +21,12 @@ public class Kettle {
                 System.out.println("Siemens");
 
     }
+        if (volume > 2){
+            System.out.println("siemens");
+        }
+        else {
+            System.out.println("zaria");
+        }
     }
 }
 
